@@ -6,3 +6,5 @@
 #wall div {
   display:none;
 }
+
+.tag-1 + #tag-2
